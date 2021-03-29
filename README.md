@@ -1,5 +1,5 @@
 # Restaurant Managemnet System
-<p align= "center" > <b> This is a 5-Tier Architecture application. </b> </p>
+This is a 5-Layer Architecture Software
 
 ## User
 The system has two user 
